@@ -1,0 +1,142 @@
+body {
+
+background-color:  bisque;
+font-family: 'Raleway', sans-serif;
+padding: 20px 25%; 
+line-height: 1.5;
+margin: 0;
+
+
+}
+
+.hlavicka {
+    background-color: FFF8BA;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+
+section{
+    
+    
+    background-color: #e1c699 ;
+    padding: 10px;
+    overflow: auto;
+    
+    
+    
+}
+
+.uvod {
+    background-color: #faf0e6 ;
+   border-radius: 20px 20px 0 0 ;
+}
+
+.hobby {
+    background-color:#faf0e6;
+    padding: 10px;
+
+
+}
+
+h1{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+h3{
+    padding: 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.kontact {
+    background-color: #faf0e6;
+    padding: 10px;
+    border-radius:  0 0  20px 20px;
+   
+}
+
+
+.paticka {
+    background-color:FFF8BA;
+    text-align: center;
+    color:black;
+
+}
+
+.profilovka {
+    width: 40%;
+    float: left;
+    border-radius: 50%;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    overflow: auto;
+}
+
+.foto-foceni {
+    width: 45%;
+    float: right;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.grafika-foto {
+    width: 45%;
+    float: left;
+    border-radius: 50px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.poledance-foto {
+    width: 30%;
+    float: left;
+    margin-bottom: 10 px;
+    margin-right: 10px;
+    border-radius: 50px;
+}
+
+a {
+text-decoration: none;
+
+}
+
+.nadpis_kontakt {
+    text-align: left;
+}
+
+
+.odkazy {
+    background-color: #faf0e6;
+    padding: 5px;
+}
+
+.facebook {
+    width: 45px;
+    border-radius: 10px;
+   
+ 
+}
+.instagram {
+    width: 45px;
+    
+}
+.linkedin {
+    width: 45px;
+    border-radius:10px;   
+    
+}
+
+
+
+
+/* nemůžu se rozhodnout, s čím to vypadá lépe :)
+.nadpis_foceni
+{
+    clear: both;
+}
+*/ 
